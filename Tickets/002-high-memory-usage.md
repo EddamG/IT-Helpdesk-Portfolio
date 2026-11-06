@@ -1,4 +1,4 @@
-#Ticket 002: High Memory Usage on Windows
+Ticket 002: High Memory Usage on Windows
 
 Ticket Information
 
