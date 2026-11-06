@@ -59,30 +59,3 @@ Skills Practiced
 Disclaimer
 
 This report documents a practical learning exercise and does not represent a professional diagnosis of a hardware or software failure.
-##Results
-
-- Memory utilization decreased from 13.7 GB to 8.5 GB.
-- Available memory increased to 6.7 GB.
-- Non-paged pool decreased from 1.5 GB to approximately 993 MB.
-- No confirmed memory leak or hardware failure was identified.
-
-##Resolution
-
-Closed unnecessary browser tabs and disabled selected applications from automatically starting with Windows.
-
-##Final Result
-
-Memory utilization improved during the investigation. Further monitoring would be necessary to determine whether additional optimization is required.
-
-##Skills Practiced
-
-- Windows Task Manager
-- Memory Management
-- Process Investigation
-- Startup Application Management
-- Performance Troubleshooting
-- Technical Documentation
-
-Disclaimer
-
-This report documents a practical learning exercise and does not represent a professional diagnosis of a hardware or software failure.
