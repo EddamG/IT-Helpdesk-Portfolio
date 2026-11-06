@@ -1,6 +1,6 @@
-Ticket 002: High Memory Usage on Windows
+#Ticket 002: High Memory Usage on Windows
 
-Ticket Information
+##Ticket Information
 
 - Ticket ID: 002
 - Category: Windows Performance
@@ -9,18 +9,18 @@ Ticket Information
 - Environment: Windows 11
 - Type: Practical troubleshooting exercise
 
-User Report
+##User Report
 
 The computer was experiencing high memory utilization and potential performance issues.
 
-Initial Findings
+##Initial Findings
 
 - Installed RAM: 16 GB DDR5
 - Initial memory utilization: 13.7 GB (90%)
 - Opera GX usage: approximately 3 GB
 - ChatGPT usage: approximately 850 MB
 
-Troubleshooting Performed
+##Troubleshooting Performed
 
 1. Inspected Windows Task Manager.
 2. Identified high memory usage in Opera GX.
@@ -32,22 +32,22 @@ Troubleshooting Performed
 8. Disabled selected non-essential startup applications.
 9. Rechecked memory utilization.
 
-Results
+##Results
 
 - Memory utilization decreased from 13.7 GB to 8.5 GB.
 - Available memory increased to 6.7 GB.
 - Non-paged pool decreased from 1.5 GB to approximately 993 MB.
 - No confirmed memory leak or hardware failure was identified.
 
-Resolution
+##Resolution
 
 Closed unnecessary browser tabs and disabled selected applications from automatically starting with Windows.
 
-Final Result
+##Final Result
 
 Memory utilization improved during the investigation. Further monitoring would be necessary to determine whether additional optimization is required.
 
-Skills Practiced
+##Skills Practiced
 
 - Windows Task Manager
 - Memory Management
